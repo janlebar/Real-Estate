@@ -13,19 +13,26 @@ css: presentation.css
 Building a Trusted Rental Ecosystem
 </div>
 
+
+---
+## <span class="icon-blue"></span> Why expand?
+
+1. To increase platform traffic which is necessary for real estate agencies to advertise.
+2. Real problem: Property owners do not wish to rent out because they cannot see who is applying to rent and have issues with previous rental agreements.
+
 ---
 
 ## <span class="icon-blue"></span> Proposed Platform Expansion
 
 <div class="highlight-box">
-<strong>Goal:</strong> Extend from a **property lookup tool** into a **trusted rental ecosystem**
+<strong>Goal:</strong> Extend from a <b>property lookup tool</b> into a <b>trusted rental ecosystem</b>
 </div>
 
 ### Key Features:
 
 <div style="color: #ecf0f1; margin-top: 0.2em; font-size: 0.9em;">
-- <span class="icon-blue"></span> Enable **both renters and landlords** to create accounts
-- <span class="icon-blue"></span> Allow them to **interact, rate experiences, and build trust**
+- <span class="icon-blue"></span> Enable <b>both renters and landlords</b> to create accounts
+- <span class="icon-blue"></span> Allow them to <b>interact, rate experiences, and build trust</b>
 - <span class="icon-blue"></span> Create transparency in the rental market
 </div>
 
@@ -62,10 +69,10 @@ Building a Trusted Rental Ecosystem
 ### Facebook Integration
 
 <div style="color: #ecf0f1; margin-top: 0.2em; font-size: 0.9em;">
-- <span class="icon-green"></span> Implement **Facebook login authentication**
+- <span class="icon-green"></span> Implement <b>Facebook login authentication</b>
 - <span class="icon-green"></span> Verify user identity
 - <span class="icon-green"></span> Import profile photos for identification
-- <span class="icon-blue"></span> Helps reduce **fake profiles and scams**
+- <span class="icon-blue"></span> Helps reduce <b>fake profiles and scams</b>
 </div>
 
 ---
@@ -116,11 +123,6 @@ Rate the quality and maintenance of properties
 Evaluate the fairness of rental agreements
 </div>
 
-<div class="feature-card">
-<h3><span class="icon-blue"></span> Responsiveness</h3>
-Measure landlord communication and support
-</div>
-
 </div>
 
 ---
@@ -129,10 +131,10 @@ Measure landlord communication and support
 
 <div class="benefit-list">
 
-- <span class="icon-green"></span> Creates **transparency** in the rental market
-- <span class="icon-green"></span> Encourages **responsible behavior** from both sides
-- <span class="icon-green"></span> Helps users make **safer rental decisions**
-- <span class="icon-green"></span> Builds long-term **trust and credibility**
+- <span class="icon-green"></span> Creates <b>transparency</b> in the rental market
+- <span class="icon-green"></span> Encourages <b>responsible behavior</b> from both sides
+- <span class="icon-green"></span> Helps users make <b>safer rental decisions</b>
+- <span class="icon-green"></span> Builds long-term <b>trust and credibility</b>
 
 </div>
 
@@ -141,7 +143,7 @@ Measure landlord communication and support
 ## <span class="icon-blue"></span> Long-Term Vision
 
 <div class="highlight-box">
-The platform could evolve into a **trusted Slovenian rental network**
+The platform could evolve into a <b>trusted Slovenian rental network</b>
 </div>
 
 ### Users can:
@@ -179,16 +181,7 @@ The platform could evolve into a **trusted Slovenian rental network**
 </div>
 
 <div style="margin-top: 0.3em; color: #ecf0f1; font-size: 0.9em;">
-- <span class="icon-blue"></span> Reduced **fraud and bad rental experiences**
-- <span class="icon-blue"></span> Better **decision-making** for both landlords and renters
-- <span class="icon-blue"></span> Expansion into a **full rental platform**
-</div>
-
----
-
-<!-- .slide: class="title-slide centered" -->
-# <span style="display: inline-block; width: 0.8em; height: 0.8em; background: #ecf0f1; border-radius: 2px; margin-right: 0.5em; vertical-align: middle;"></span> Thank You
-
-<div style="margin-top: 2em; font-size: 1.5em; color: #3498db;">
-Questions?
+- <span class="icon-blue"></span> Reduced <b>fraud and bad rental experiences</b>
+- <span class="icon-blue"></span> Better <b>decision-making</b> for both landlords and renters
+- <span class="icon-blue"></span> Expansion into a <b>full rental platform</b>
 </div>

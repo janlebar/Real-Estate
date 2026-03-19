@@ -19,6 +19,7 @@
 
 .reveal {
     color: #ecf0f1;
+    font-size: 1.05em;
 }
 
 .reveal h1 {
@@ -72,14 +73,14 @@
 
 .reveal ul {
     margin-left: 1.5em;
-    line-height: 1.4;
+    line-height: 1.5;
     color: #ecf0f1;
-    font-size: 0.85em;
+    font-size: 0.95em;
 }
 
 .reveal li {
-    margin-bottom: 0.4em;
-    font-size: 0.85em;
+    margin-bottom: 0.5em;
+    font-size: 0.95em;
     color: #ecf0f1;
 }
 
@@ -113,12 +114,12 @@
 .reveal .feature-card {
     background: #34495e;
     color: #ecf0f1;
-    padding: 0.8em;
+    padding: 0.9em;
     border-radius: 8px;
     border-left: 4px solid #3498db;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     min-height: auto;
-    font-size: 0.85em;
+    font-size: 0.95em;
 }
 
 .reveal .feature-card h3 {
@@ -136,7 +137,7 @@
 .reveal .feature-card ul,
 .reveal .feature-card li {
     color: #ecf0f1;
-    font-size: 0.85em;
+    font-size: 0.95em;
 }
 
 .reveal .icon {
@@ -204,6 +205,7 @@
     gap: 1.5em;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
+    font-size: 0.95em;
 }
 
 .reveal .two-column ul {
@@ -247,8 +249,8 @@
 }
 
 .reveal p {
-    font-size: 0.85em;
-    margin-bottom: 0.3em;
+    font-size: 0.95em;
+    margin-bottom: 0.4em;
 }
 
 .reveal h3 {
@@ -310,20 +312,4 @@
     padding-bottom: 1em;
 }
 
-/* Reduce line height for better fit */
-.reveal ul {
-    line-height: 1.4;
-}
 
-.reveal li {
-    margin-bottom: 0.4em;
-}
-
-/* Make all text smaller and ensure visibility on grey backgrounds */
-.reveal {
-    font-size: 0.9em;
-}
-
-.reveal .two-column {
-    font-size: 0.85em;
-}
