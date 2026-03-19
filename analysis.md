@@ -1,69 +1,69 @@
 # Expanding the Real Estate App: From Land Registry Search to Rental Platform
 
-## 1. Current Application Functionality
-- The app currently provides **land search functionality**.
-- It connects to the **Slovenian land registry** to retrieve property ownership information.
-- Users can look up property data based on official registry records.
+## Why expand?
+1. To increase platform traffic, which is necessary for real estate agencies to advertise.
+2. Real problem: Property owners do not wish to rent out because they cannot see who is applying to rent and have issues with previous rental agreements.
 
-## 2. Proposed Platform Expansion
-The goal is to extend the application from a **property lookup tool** into a **trusted rental ecosystem**.
+## Proposed Platform Expansion
+**Goal:** Extend from a **property lookup tool** into a **trusted rental ecosystem**.
 
-Key idea:
-- Enable **both renters and landlords (rentees)** to create accounts.
-- Allow them to **interact, rate experiences, and build trust** within the rental market.
+**Key Features:**
+- Enable **both renters and landlords** to create accounts.
+- Allow them to **interact, rate experiences, and build trust**.
+- Create transparency in the rental market.
 
-## 3. User Roles
-Two main user types would be introduced:
-
+## User Roles
 ### Renters
 - People looking to rent apartments or houses.
-- Can create profiles and verify their identity.
-- Can review their rental experiences.
+- Can create profiles and verify identity.
+- Can review rental experiences.
 
 ### Landlords (Rentees)
 - Property owners offering rental units.
 - Can manage property listings.
-- Can review renters after rental agreements.
+- Can review renters after agreements.
 
-## 4. Authentication and Verification
-To improve trust and reduce fraud:
+## Authentication and Verification
+**Goal:** Improve trust and reduce fraud.
 
+### Facebook Integration
 - Implement **Facebook login authentication**.
-- Use Facebook integration to:
-  - Verify user identity.
-  - Import profile photos for identification.
-- This helps reduce **fake profiles and scams**.
+- Verify user identity.
+- Import profile photos for identification.
+- Helps reduce **fake profiles and scams**.
 
-## 5. Reputation System
-Introduce a **two-way reputation system**:
+## Reputation System
+**Two-Way Reputation System:** Building transparency through mutual feedback.
 
 ### Landlord → Renter Feedback
-- Payment reliability
-- Property care
+- Payment Reliability
+- Property Care
 - Communication
 
 ### Renter → Landlord Feedback
-- Property condition
-- Fairness of contract
-- Responsiveness
+- Property Condition
+- Contract Fairness
 
-Benefits:
-- Creates **transparency in the rental market**
-- Encourages **responsible behavior from both sides**
-- Helps users **make safer rental decisions**
+## Reputation System Benefits
+- Creates **transparency** in the rental market.
+- Encourages **responsible behavior** from both sides.
+- Helps users make **safer rental decisions**.
+- Builds long-term **trust and credibility**.
 
-## 6. Long-Term Vision
-The platform could evolve into:
+## Long-Term Vision
+The platform could evolve into a **trusted Slovenian rental network**, where users can:
+- Search properties
+- Verify landlords and renters
+- Review past experiences
+- Build trustworthy rental histories
 
-- A **trusted Slovenian rental network**
-- A place where users can:
-  - Search properties
-  - Verify landlords and renters
-  - Review past experiences
-  - Build trustworthy rental histories
+## Expected Benefits
+- Increased **trust** in the rental market
+- Reduced **fraud**
+- Better **decision-making**
 
-## 7. Expected Benefits
-- Increased **trust in the rental market**
+Key outcomes:
 - Reduced **fraud and bad rental experiences**
-- Better **decision-making for both landlords and renters**
-- Expansion of the current app into a **full rental platform**
+- Better **decision-making** for both landlords and renters
+- Expansion into a **full rental platform**
+
